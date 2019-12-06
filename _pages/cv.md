@@ -16,7 +16,7 @@ Education
 * B.S.E. in Computer Science in Engineering, University of Michigan 2019
 * Ph.D in Computer Science, Northwestern University, 2024 (expected)
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -27,7 +27,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -54,4 +54,10 @@ Research experience
 Honors and leadership
 ======
 * September 2019: 2nd Place Winner at Undergraduate ACM Student Research Competition at Tapia Conference
-* 
+* September 2019: Tapia Conference Scholarship Recipient
+
+
+Additional Skills
+======
+* Fluent in English (advanced) and Spanish (native)
+* Comfortable with public speaking
