@@ -9,32 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Link to pdf of [resume](https://drive.google.com/file/d/1vmE9pOBB0AMdigTPPVedNRXUC6_s7Smh/view?usp=sharing)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S.E. in Computer Science in Engineering, University of Michigan 2019
+* Ph.D in Computer Science, Northwestern University, 2024 (expected)
 
 Publications
 ======
@@ -53,7 +33,25 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Research experience
 ======
-* Currently signed in to 43 different slack teams
+* January 2020: Graduate Research Assistant
+  * Northwestern University
+  * User requirements gathering and analysis
+  * Supervisor: Professor Kristian Hammond
+
+* May 2018: Undergraduate Research Assistant
+  * University of Michigan
+  * Lead student researcher in recommender system project
+  * Supervisor: Sindhu Kutty
+
+* January 2018: Undergraduate Research Assistant
+  * University of Michigan
+  * Duties included data processing and model training
+  * Supervisor: Professor Barzan Mozafari
+  
+Honors and leadership
+======
+* September 2019: 2nd Place Winner at Undergraduate ACM Student Research Competition at Tapia Conference
+* 
