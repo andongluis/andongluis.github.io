@@ -1,14 +1,14 @@
 ---
-title: "SCALES2"
+title: "SCALES"
 collection: projects
 type: "Project"
-permalink: /projects/scales2
+permalink: /projects/scales
 venue: "UNAM, C3"
 date: 2019-01-01
 location: "Mexico City, Mexico"
 ---
 
-I am involved in doing ddevelopment for scales22
+I am involved in doing ddevelopment for scales
 
 During my last semester as an undergraduate at the University of Michigan, I was the lead instructional aide for the Introduction to Machine Learning (EECS 445) course. In addition to helping the instructor supervise the teaching staff and manage logistic planning, I sided with planning course content, writing assignments, designing exams, and overall logistic support. I also:
 
