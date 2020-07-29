@@ -28,7 +28,13 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
    -->
-   
+
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -37,9 +43,9 @@ Teaching
 
 Research experience
 ======
-* January 2020: Graduate Research Assistant
+* January 2020: Graduate Student
   * Northwestern University
-  * User requirements gathering and analysis
+  * Graduate student AI researcher 
   * Supervisor: Professor Kristian Hammond
 
 * May 2018: Undergraduate Research Assistant
@@ -54,6 +60,7 @@ Research experience
   
 Honors and leadership
 ======
+* Co-founder and President of Latin@CS Student Organization at Northwestern University
 * September 2019: 2nd Place Winner at Undergraduate ACM Student Research Competition at Tapia Conference
 * September 2019: Tapia Conference Scholarship Recipient
 
