@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-heyo
+
 I am a first-year Computer Science PhD student at Northwestern University, working under Prof. Kris Hammond at the C3 Lab. I am interested in developing and applying AI/ML methods for social good. I believe that by purposefully developing AI for people, we can overcome social challenges and improve how society works. Currently, I am working on improving how people understand legal and legislative documents through AI/ML.
 
 In addition to my professional interests in AI, I am passionate about a variety of topics. Being born and raised in Mexico by Chinese immigrants, I am interested in learning about different cultures, politics, and economics. I am also an avid Bojack Horseman fan.
